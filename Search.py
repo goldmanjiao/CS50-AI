@@ -1,0 +1,6 @@
+print("hello")
+set1 = set()
+set1.add(3)
+print(set1)
+tuple1 = (1,2)
+print(tuple1[0])
